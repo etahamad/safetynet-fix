@@ -5,4 +5,6 @@ to run:
 
 2- git clone https://github.com/etahamad/cts-fix/
 
-3- bash ./keystore.Unix.sh
+3. cd cts-fix
+
+4- bash ./keystore.Unix.sh
