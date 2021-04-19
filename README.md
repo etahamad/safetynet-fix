@@ -41,7 +41,7 @@ Ideally, this workaround should be incorporated in ROMs instead of overriding pa
 
 There are 2 options for:
 
-- Blocking GMS in the framework, which is more portable across Android versions and typically less intrusive for ROMs to integrate
+- Blocking GMS in the framework, which is more portable across Android versions and typically less intrusive for ROMs to integrate (Broken)
 - Blocking GMS in the native keystore service, which is slightly more future-proof but may require forking another repository
 
 You only need **one** of the workarounds on the ROM side. Adding both is redundant.
