@@ -69,8 +69,8 @@ The keystore executables and libraries in this repository were built with the co
 
 Android 11:
 ```
-$ git clone https://github.com/etahamad/cts-fix
-$ bash ./cts-fix/keystore.Unix.sh
+$ git clone https://github.com/etahamad/safetynet-fix
+$ bash ./safetynet-fix/pick.sh
 ```
 
 ## Credits
