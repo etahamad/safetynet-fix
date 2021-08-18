@@ -73,6 +73,12 @@ $ git clone https://github.com/etahamad/safetynet-fix
 $ bash ./safetynet-fix/pick.sh
 ```
 
+Android 10:
+```
+$ git clone https://github.com/etahamad/safetynet-fix
+$ bash ./safetynet-fix/pick-q.sh
+```
+
 ## Credits
 
 [kdrag0n](https://github.com/kdrag0n)
