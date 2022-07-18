@@ -79,6 +79,11 @@ $ git clone https://github.com/etahamad/safetynet-fix
 $ bash ./safetynet-fix/pick-q.sh
 ```
 
+Android 9:
+```
+You guys still using Android Pie?
+```
+
 ## Still SafetyNet fails?
 Check [ProtonAOSP website](https://protonaosp.org/developers/details/safetynet) for more information.
 ## Credits
