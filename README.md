@@ -70,7 +70,7 @@ The keystore executables and libraries in this repository were built with the co
 Android 11:
 ```
 $ git clone https://github.com/etahamad/safetynet-fix
-$ bash ./safetynet-fix/pick.sh
+$ bash ./safetynet-fix/pick-r.sh
 ```
 
 Android 10:
