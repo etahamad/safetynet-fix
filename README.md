@@ -79,6 +79,8 @@ $ git clone https://github.com/etahamad/safetynet-fix
 $ bash ./safetynet-fix/pick-q.sh
 ```
 
+## Still SafetyNet fails?
+Check [ProtonAOSP website](https://protonaosp.org/developers/details/safetynet) for more information.
 ## Credits
 
 [kdrag0n](https://github.com/kdrag0n)
